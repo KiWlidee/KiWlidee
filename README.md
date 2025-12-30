@@ -57,9 +57,13 @@
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <!-- <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" /> -->
 </div>
 
 
