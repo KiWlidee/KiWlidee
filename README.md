@@ -47,14 +47,16 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <!-- <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
